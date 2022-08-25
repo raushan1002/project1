@@ -27,8 +27,7 @@ html{
 }
 #logo img{
     height:70px;
-    
-    
+    border-radius: 67%;   
 }
 
 /*  Navigation Bar: list Styling */
